@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-04-28T05:13:28.114Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="PQLfiTD37BcBd-xpNF9s" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-28T05:13:53.689Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Pk-uPIaIWxedaWN-vTBN" version="21.2.3" type="github">
   <diagram name="Page-1" id="-eXQGrq3bveKVIrhkafP">
     <mxGraphModel dx="1434" dy="-390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="https://1000logos.net/wp-content/uploads/2017/06/Ubuntu-logo.jpg" link="https://1000logos.net/wp-content/uploads/2017/06/Ubuntu-logo.jpg" id="0tzYK9TRGHTB1uOHHbBW-77">
+        <UserObject label="" link="https://1000logos.net/wp-content/uploads/2017/06/Ubuntu-logo.jpg" id="0tzYK9TRGHTB1uOHHbBW-77">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;fillColor=none;" parent="1" vertex="1">
             <mxGeometry y="1200" width="1360" height="1130" as="geometry" />
           </mxCell>
